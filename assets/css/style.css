@@ -36,12 +36,12 @@
 }
 
 .navbar .nav-links ul li a.active {
-    color: rgb(52, 159, 222);
     font-weight: 600;
 }
 /********** ANIMATE LINKS **********/
 .nav-links a {
     position: relative;
+    color: #FFF;
 }
 .nav-links span {
     transition: .5s;
